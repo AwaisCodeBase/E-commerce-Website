@@ -32,7 +32,7 @@ This is a **full-stack E-Commerce web application** built using the **MERN Stack
 
 ## 📂 Project Structure
 
-```
+
 
 ecommerce-mern/
 ├── client/                # Frontend (React + Tailwind)
@@ -51,69 +51,56 @@ ecommerce-mern/
 ├── README.md
 └── package.json
 
-````
 
 ## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
 
 1. **Clone the repository:**
-   ```bash
+   
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-````
 
 2. **Install Backend Dependencies:**
 
-   ```bash
+   
    cd server
    npm install
-   ```
+   
 
 3. **Install Frontend Dependencies:**
 
-   ```bash
+   
    cd client
    npm install
-   ```
 
-4. **Configure Environment Variables:**
 
-   * In the `server` directory, create a `.env` file:
-
-     ```env
-     MONGO_URI=your_mongo_db_connection_string
-     JWT_SECRET=your_jwt_secret
-     PORT=5000
-     ```
-   * Optionally, configure `.env` for the frontend (`VITE_BACKEND_URL`).
 
 5. **Run the Application:**
 
    * Start the backend:
 
-     ```bash
+  
      cd server
      npm run dev
-     ```
+     
    * Start the frontend:
 
-     ```bash
+     
      cd client
      npm run dev
-     ```
+     
 
 6. **Open the Application:**
 
-   * Visit `http://localhost:3000` in your browser.
+   * Visit `http://localhost:----` in your browser.
 
 ## 📸 Screenshots
 
-*Include screenshots of your application here to showcase the features.*
+![Homepage Screenshot](./e-commerce-SS.png)
 
 ## 🏗️ Deployed Version
 
-*If you have a deployed version, add the link here:*
 
 [🔗 Live Demo](https://your-deployed-link.com)
 
@@ -126,7 +113,7 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions, issues, and feature requests are welcome!
 Feel free to open an issue or submit a pull request.
 
----
+
 
 ### 💡 Future Enhancements
 
@@ -136,17 +123,14 @@ Feel free to open an issue or submit a pull request.
 ✅ Order management system.
 ✅ Enhanced product filtering and search features.
 
----
 
 ## 🙌 Acknowledgements
 
 Thanks for checking out this project! If you find it useful or inspiring, feel free to ⭐️ the repository or share it with others. Happy coding! 🚀
 
----
 
-```
 
----
+
 
 This version includes everything in one place:  
 ✅ Features you’ve implemented  
