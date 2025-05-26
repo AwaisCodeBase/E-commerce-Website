@@ -97,7 +97,7 @@ Follow these steps to run the project locally:
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](./e-commerce-SS.png)
+![Homepage Screenshot](frontend/public/e-commerce-SS.png)
 
 ## 🏗️ Deployed Version
 
