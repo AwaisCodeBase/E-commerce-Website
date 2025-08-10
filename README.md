@@ -30,27 +30,6 @@ This is a **full-stack E-Commerce web application** built using the **MERN Stack
 | **API Client** | Axios                              |
 | **Version Control** | Git & GitHub                   |
 
-## 📂 Project Structure
-
-
-
-ecommerce-mern/
-├── client/                # Frontend (React + Tailwind)
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.jsx
-│   └── package.json
-├── server/                # Backend (Node.js + Express)
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── server.js
-│   └── package.json
-├── .gitignore
-├── README.md
-└── package.json
-
 
 ## ⚙️ Installation & Setup
 
